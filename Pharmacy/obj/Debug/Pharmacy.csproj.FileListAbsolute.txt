@@ -1,0 +1,16 @@
+C:\Users\ismile\source\repos\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\ismile\source\repos\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\ismile\source\repos\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\ismile\source\repos\Pharmacy\bin\Debug\EntityFramework.dll
+C:\Users\ismile\source\repos\Pharmacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismile\source\repos\Pharmacy\bin\Debug\EntityFramework.xml
+C:\Users\ismile\source\repos\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.CreateType.resources
+C:\Users\ismile\source\repos\Pharmacy\obj\Debug\Pharmacy.DeleteType.resources
